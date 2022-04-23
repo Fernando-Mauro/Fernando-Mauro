@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👾 ;I´m++Fernando+Mauro....;Lets+chat+for+a+while!&center=true&size=30">
   </a>
 </h1><h3 align="center">I am a student passionate about technology, I like to always be learning</h3>
