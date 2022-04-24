@@ -1,11 +1,6 @@
 <h1 align="center">
-<<<<<<< HEAD
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=042940&center=true&multiline=true&lines=Hello+there;i+am+Fernando+Mauro">
-=======
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👾 ;I´m++Fernando+Mauro....;Lets+chat+for+a+while!&center=true&size=30">
->>>>>>> c6dc9e31c01defad2a9ca36e34c0865923d5eafa
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=042940&background=FFFFFF00&center=true&multiline=true&lines=Hello+there;i+am+Fernando+Mauro">
   </a>
 </h1><h3 align="center">I am a student passionate about technology, I like to always be learning</h3>
 
