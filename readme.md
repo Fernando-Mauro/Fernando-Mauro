@@ -4,7 +4,7 @@
 🤝 I’m looking for help with algorithms<br>
 🌱 I’m currently learning [React.js](https://es.react.dev/)<br>
 💬 Ask me about C++<br>
-⚡ Fun fact: I'am 16 years old
+⚡ Fun fact: I'am from Oaxaca
 
 
 ## 🌐 Socials:
