@@ -69,7 +69,77 @@
 
 ## Stats section
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C133%20hrs%205%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 318.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 222 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 14 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                197 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+🌆 Daytime                470 commits         ████████░░░░░░░░░░░░░░░░░   33.43 % 
+🌃 Evening                704 commits         █████████████░░░░░░░░░░░░   50.07 % 
+🌙 Night                  35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Tuesday                  194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Wednesday                220 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Thursday                 162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Friday                   190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Saturday                 232 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Sunday                   212 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Mexico_City
+
+💬 Programming Languages: 
+PHP                      5 hrs 20 mins       █████████████░░░░░░░░░░░░   50.42 % 
+JavaScript               2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+C++                      1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+
+🔥 Editors: 
+VS Code                  10 hrs 35 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+conecta-cobao            5 hrs 46 mins       ██████████████░░░░░░░░░░░   54.54 % 
+docker-conecta-cobao-bot 2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+zig-zag-code             1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+base-baileys-memory      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+students-register-front  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+
+💻 Operating System: 
+Linux                    10 hrs 35 mins      █████████████████████████   100.00 % 
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
+
+
+ Last Updated on 23/03/2024 19:46:13 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
