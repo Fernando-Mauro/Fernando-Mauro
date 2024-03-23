@@ -1,4 +1,4 @@
-<h1> <img src="./deku.gif" width=60/>Hi Everyone! I'am Fernando Mauro </h1>
+<h1>Hi Everyone! I'am Fernando Mauro </h1>
 
 <h2>Welcome to my github profile</h2>
 <h3> 💫 About Me: <h3>
@@ -10,6 +10,10 @@
 <p>🌱 I’m currently learning [Laravel](https://laravel.com/)<br></p>
 <p>💬 Ask me about C++<br></p>
 <p>⚡ Fun fact: I'am from Oaxaca 🫔</p>
+
+<div align="center">
+  <img height="200" src="https://c.tenor.com/D9bWSaEUuwoAAAAC/tenor.gif"  />
+</div>
 
 ## 🌐 Social Networks:
 <div align="center">
