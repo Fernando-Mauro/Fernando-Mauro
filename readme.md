@@ -17,6 +17,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fernando-Mauro&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Mauro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -24,7 +28,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Fernando-Mauro&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=Fernando-Mauro&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
