@@ -3,13 +3,13 @@
 <h2>Welcome to my github profile</h2>
 <h3> 💫 About Me: <h3>
 
-<p>🔭 I’m currently working on [conecta-cobao](https://conectacobao.com/)</p>
+<p>🔭 I’m currently working on <a href="https://conectacobao.com">conecta-cobao</a></p>
 
 <p>👯 I’m looking to collaborate on open source<br></p>
 <p>🤝 I’m looking for help with algorithms<br></p>
-<p>🌱 I’m currently learning [Laravel](https://laravel.com/)<br></p>
+<p>🌱 I’m currently learning <a href="https://laravel.com/">Laravel</a><br></p>
 <p>💬 Ask me about C++<br></p>
-<p>⚡ Fun fact: I'am from Oaxaca 🫔</p>
+<p>⚡ Fun fact: I'am from Oaxaca, México 🫔</p>
 
 <div align="center">
   <img height="200" src="https://c.tenor.com/D9bWSaEUuwoAAAAC/tenor.gif"  />
