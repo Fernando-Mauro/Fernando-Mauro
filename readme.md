@@ -67,6 +67,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/50px-Laravel.svg.png" height="40" alt="laravel logo"  />
 </div>
 
+## Stats section
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
