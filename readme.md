@@ -79,8 +79,6 @@
 
 > 📦 323.6 kB Used in GitHub's Storage 
  > 
-> 🏆 273 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -135,7 +133,7 @@ Linux                    1 hr 37 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2024 18:37:11 UTC
+ Last Updated on 30/04/2024 18:37:49 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
