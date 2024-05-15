@@ -79,8 +79,6 @@
 
 > 📦 323.5 kB Used in GitHub's Storage 
  > 
-> 🏆 282 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -114,18 +112,16 @@ Sunday                   244 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-C++                      23 mins             █████████████████░░░░░░░░   69.47 % 
-Text                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Python                   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-zig-zag-code             34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -133,7 +129,7 @@ Linux                    34 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2024 18:37:17 UTC
+ Last Updated on 15/05/2024 18:37:37 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
