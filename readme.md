@@ -69,7 +69,7 @@
 
 ## Stats section
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C171%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C173%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -112,20 +112,20 @@ Sunday                   245 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-C++                      2 hrs 14 mins       █████████████████████████   99.78 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+C++                      2 hrs 33 mins       █████████████████████████   99.81 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-examen-verde-2024-1      1 hr 34 mins        █████████████████░░░░░░░░   69.83 % 
-mini-sumo-autonomous     30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-robo-ballon-ps5          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+examen-verde-2024-1      1 hr 52 mins        ██████████████████░░░░░░░   73.45 % 
+mini-sumo-autonomous     30 mins             █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+robo-ballon-ps5          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 💻 Operating System: 
-Linux                    2 hrs 15 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -133,7 +133,7 @@ Linux                    2 hrs 15 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2024 18:37:39 UTC
+ Last Updated on 28/05/2024 18:38:13 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
