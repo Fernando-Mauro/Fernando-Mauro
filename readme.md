@@ -69,7 +69,7 @@
 
 ## Stats section
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C178%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C179%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,6 +78,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 323.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 287 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,21 +114,20 @@ Sunday                   247 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-C++                      1 hr 40 mins        ██████████████████░░░░░░░   71.33 % 
-Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+C++                      1 hr 40 mins        █████████████████████░░░░   82.32 % 
+Markdown                 19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-zig-zag-code             1 hr 40 mins        ██████████████████░░░░░░░   71.34 % 
-students-register-front  40 mins             ███████░░░░░░░░░░░░░░░░░░   28.66 % 
+zig-zag-code             1 hr 40 mins        █████████████████████░░░░   82.33 % 
+students-register-front  21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
 
 💻 Operating System: 
-Linux                    2 hrs 20 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -134,7 +135,7 @@ Linux                    2 hrs 20 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2024 18:38:08 UTC
+ Last Updated on 17/06/2024 18:38:28 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
