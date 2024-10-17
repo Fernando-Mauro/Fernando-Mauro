@@ -71,7 +71,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C303%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -112,17 +112,22 @@ Sunday                   325 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-SQL                      0 secs              ████████████████░░░░░░░░░   62.53 % 
-TypeScript               0 secs              █████████░░░░░░░░░░░░░░░░   37.47 % 
+JavaScript               2 mins              ████████████████████████░   97.18 % 
+PHP                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-website-OFMI             0 secs              █████████████████████████   100.00 % 
+students-register-front  2 mins              ████████████████████████░   97.18 % 
+conecta-cobao            0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+website-OFMI             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Linux                    2 mins              █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -130,7 +135,7 @@ Linux                    0 secs              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2024 18:44:45 UTC
+ Last Updated on 17/10/2024 18:44:11 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
