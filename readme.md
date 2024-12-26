@@ -69,7 +69,7 @@
 
 ## Stats section
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C307%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C309%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,6 +78,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 522.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 442 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,19 +114,21 @@ Sunday                   326 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-JavaScript               1 hr 14 mins        ████████████████████████░   96.81 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JavaScript               2 hrs 15 mins       ███████████████████████░░   93.67 % 
+PHP                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-conecta-cobao-front      1 hr 16 mins        █████████████████████████   100.00 % 
+conecta-cobao-front      2 hrs 18 mins       ████████████████████████░   96.03 % 
+conecta-cobao            5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 💻 Operating System: 
-Linux                    1 hr 16 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -132,7 +136,7 @@ Linux                    1 hr 16 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 25/12/2024 18:42:50 UTC
+ Last Updated on 26/12/2024 18:43:11 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
