@@ -69,7 +69,7 @@
 
 ## Stats section
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C309%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C310%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,8 +78,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 522.2 kB Used in GitHub's Storage 
- > 
-> 🏆 442 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -136,7 +134,7 @@ Linux                    2 hrs 24 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2024 18:43:11 UTC
+ Last Updated on 27/12/2024 18:43:10 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
