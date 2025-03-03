@@ -79,7 +79,7 @@
 
 > 📦 575.3 kB Used in GitHub's Storage 
  > 
-> 🏆 245 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -114,21 +114,16 @@ Sunday                   382 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-JavaScript               1 hr 23 mins        █████████████░░░░░░░░░░░░   51.63 % 
-PHP                      1 hr 3 mins         ██████████░░░░░░░░░░░░░░░   39.68 % 
-Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-conecta-cobao-front      1 hr 26 mins        █████████████░░░░░░░░░░░░   53.83 % 
-conecta-cobao            1 hr 14 mins        ████████████░░░░░░░░░░░░░   46.17 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -136,7 +131,7 @@ Linux                    2 hrs 40 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2025 18:44:13 UTC
+ Last Updated on 03/03/2025 18:45:34 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
