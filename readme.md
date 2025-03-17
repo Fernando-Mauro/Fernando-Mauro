@@ -69,7 +69,7 @@
 
 ## Stats section
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C323%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C323%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -114,17 +114,20 @@ Sunday                   382 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Python                   30 mins             █████████████████████████   98.65 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Python                   30 mins             ██████████████░░░░░░░░░░░   57.69 % 
+C++                      21 mins             ██████████░░░░░░░░░░░░░░░   40.59 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.00 % 
+VS Code                  52 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-crypto                   30 mins             █████████████████████████   100.00 % 
+crypto                   30 mins             ███████████████░░░░░░░░░░   58.48 % 
+zig-zag-code             21 mins             ██████████░░░░░░░░░░░░░░░   41.52 % 
 
 💻 Operating System: 
-Linux                    30 mins             █████████████████████████   100.00 % 
+Linux                    52 mins             █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -132,7 +135,7 @@ Linux                    30 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 16/03/2025 18:44:35 UTC
+ Last Updated on 17/03/2025 18:46:16 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
