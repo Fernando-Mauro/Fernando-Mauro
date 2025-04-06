@@ -71,15 +71,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C330%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 575.1 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -114,21 +112,20 @@ Sunday                   385 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-JavaScript               2 hrs 3 mins        █████████████░░░░░░░░░░░░   53.32 % 
-PHP                      1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   41.99 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+JavaScript               2 hrs 3 mins        ██████████████████████░░░   89.40 % 
+PHP                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-conecta-cobao-front      2 hrs 3 mins        █████████████░░░░░░░░░░░░   53.33 % 
-conecta-cobao            1 hr 48 mins        ████████████░░░░░░░░░░░░░   46.67 % 
+conecta-cobao-front      2 hrs 3 mins        ██████████████████████░░░   89.41 % 
+conecta-cobao            14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
 
 💻 Operating System: 
-Linux                    3 hrs 51 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -136,7 +133,7 @@ Linux                    3 hrs 51 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2025 18:42:59 UTC
+ Last Updated on 06/04/2025 18:43:54 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
