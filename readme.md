@@ -69,15 +69,7 @@ conecta-t-next           57 mins             ██░░░░░░░░░�
 Linux                    9 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
-
-
  Last Updated on 04/05/2025 18:45:50 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
