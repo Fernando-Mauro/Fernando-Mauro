@@ -50,8 +50,6 @@
 
 > 📦 599.1 kB Used in GitHub's Storage 
  > 
-> 🏆 424 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -85,17 +83,16 @@ Sunday                   477 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               5 mins              ██████████████░░░░░░░░░░░   55.58 % 
-Bash                     4 mins              ███████████░░░░░░░░░░░░░░   44.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-conecta-t-next           10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -103,7 +100,7 @@ Linux                    10 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2025 18:51:50 UTC
+ Last Updated on 18/06/2025 18:51:46 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
