@@ -40,8 +40,6 @@
 
 ## Stats section
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C387%20hrs%2024%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
@@ -49,8 +47,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 599.1 kB Used in GitHub's Storage 
- > 
-> 🏆 420 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,14 +58,14 @@
 
 ```text
 🌞 Morning                466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-🌆 Daytime                1342 commits        ████████░░░░░░░░░░░░░░░░░   33.41 % 
-🌃 Evening                2031 commits        █████████████░░░░░░░░░░░░   50.56 % 
+🌆 Daytime                1342 commits        ████████░░░░░░░░░░░░░░░░░   33.40 % 
+🌃 Evening                2032 commits        █████████████░░░░░░░░░░░░   50.57 % 
 🌙 Night                  178 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   515 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Monday                   516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
 Tuesday                  785 commits         █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
 Wednesday                742 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
 Thursday                 568 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
@@ -85,16 +81,18 @@ Sunday                   509 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               45 mins             █████████████████████░░░░   83.32 % 
+Bash                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+conecta-t-next           55 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    55 mins             █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -102,7 +100,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2025 18:51:30 UTC
+ Last Updated on 01/07/2025 18:50:41 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
