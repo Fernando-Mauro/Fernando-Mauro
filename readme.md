@@ -1,8 +1,8 @@
 <h1>Hi Everyone! I'am Fernando Mauro </h1>
-<p>⚡ Fun fact: I'am from Oaxaca, México 🫔</p>
+<p>⚡ Fun fact: I like tamales 🫔</p>
 
 <div align="center">
-  <img height="200" src="https://c.tenor.com/D9bWSaEUuwoAAAAC/tenor.gif"  />
+  <img height="200" width="200" src="https://c.tenor.com/D9bWSaEUuwoAAAAC/tenor.gif"  />
 </div>
 
 ## 💻 Tech Stack:
