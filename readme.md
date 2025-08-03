@@ -42,7 +42,7 @@
 
 ## Stats section
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C472%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C473%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,8 +51,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 599.7 kB Used in GitHub's Storage 
- > 
-> 🏆 605 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,21 +85,21 @@ Sunday                   628 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-PHP                      13 hrs 33 mins      ██████████████████████░░░   87.31 % 
-TypeScript               1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+PHP                      11 hrs 36 mins      █████████████████████░░░░   85.49 % 
+TypeScript               1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 Apache Config            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 34 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MigrationPhp             13 hrs 33 mins      ██████████████████████░░░   87.31 % 
-migration-final          1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+MigrationPhp             11 hrs 36 mins      █████████████████████░░░░   85.49 % 
+migration-final          1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
 
 💻 Operating System: 
-Linux                    15 hrs 31 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -109,7 +107,7 @@ Linux                    15 hrs 31 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2025 18:52:45 UTC
+ Last Updated on 03/08/2025 18:53:16 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
