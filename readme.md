@@ -42,8 +42,6 @@
 
 ## Stats section
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C478%20hrs%2014%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
@@ -51,6 +49,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 600.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 637 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,16 +85,16 @@ Sunday                   654 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr 48 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+lozabino                 1 hr 48 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -102,7 +102,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2025 18:46:25 UTC
+ Last Updated on 30/08/2025 18:45:00 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
