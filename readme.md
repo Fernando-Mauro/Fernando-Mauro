@@ -42,6 +42,8 @@
 
 ## Stats section
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C480%20hrs%202%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
@@ -85,16 +87,17 @@ Sunday                   654 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-PHP                      1 hr 48 mins        █████████████████████████   100.00 % 
+PHP                      2 hrs 32 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lozabino                 1 hr 48 mins        █████████████████████████   100.00 % 
+lozabino                 1 hr 48 mins        ██████████████████░░░░░░░   70.97 % 
+Unknown Project          44 mins             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
 
 💻 Operating System: 
-Linux                    1 hr 48 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -102,7 +105,7 @@ Linux                    1 hr 48 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 18:45:00 UTC
+ Last Updated on 31/08/2025 18:46:06 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
