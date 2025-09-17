@@ -42,6 +42,8 @@
 
 ## Stats section
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C500%20hrs%205%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
@@ -50,7 +52,7 @@
 
 > 📦 600.1 kB Used in GitHub's Storage 
  > 
-> 🏆 655 Contributions in the Year 2025
+> 🏆 658 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,12 +60,57 @@
  > 
 > 🔑 24 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                674 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+🌆 Daytime                1850 commits        ████████░░░░░░░░░░░░░░░░░   34.00 % 
+🌃 Evening                2711 commits        ████████████░░░░░░░░░░░░░   49.83 % 
+🌙 Night                  206 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   730 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Tuesday                  1092 commits        █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Wednesday                925 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Thursday                 846 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Friday                   620 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Saturday                 570 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Sunday                   658 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Mexico_City
+
+💬 Programming Languages: 
+PHP                      6 hrs 30 mins       ██████████████████████░░░   89.79 % 
+JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 14 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+D3migracion_php          5 hrs 29 mins       ███████████████████░░░░░░   75.81 % 
+aqua-plomeria-full       56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+D3migracion_angular      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+downloads_work           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+ADM-php                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+
+💻 Operating System: 
+Linux                    7 hrs 14 mins       █████████████████████████   100.00 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 18:47:46 UTC
+ Last Updated on 17/09/2025 18:47:58 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
