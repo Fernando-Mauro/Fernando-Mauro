@@ -42,7 +42,7 @@
 
 ## Stats section
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C632%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C632%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -87,7 +87,7 @@ Sunday                   756 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-PHP                      7 hrs 38 mins       █████████████░░░░░░░░░░░░   53.92 % 
+PHP                      7 hrs 38 mins       █████████████░░░░░░░░░░░░   53.93 % 
 TypeScript               3 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   27.64 % 
 C++                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
@@ -98,8 +98,8 @@ VS Code                  14 hrs 10 mins      ███████████�
 
 🐱‍💻 Projects: 
 ADM-laravel              5 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.58 % 
-ADM-angular              4 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   32.56 % 
-Trabajo                  2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+ADM-angular              4 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   32.57 % 
+Trabajo                  2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
 prog-web-teris           47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 C.MTY.TC1033.313.2513.A0044 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
@@ -112,7 +112,7 @@ Linux                    14 hrs 10 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2025 18:49:54 UTC
+ Last Updated on 14/12/2025 18:50:34 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
