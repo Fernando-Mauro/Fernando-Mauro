@@ -42,8 +42,6 @@
 
 ## Stats section
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C690%20hrs%2034%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.71%20million%20lines%20of%20code-blue?style=flat)
@@ -110,7 +108,7 @@ Linux                    14 hrs 5 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2026 18:57:39 UTC
+ Last Updated on 01/02/2026 19:01:38 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
