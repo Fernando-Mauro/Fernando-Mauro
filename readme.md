@@ -20,8 +20,6 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/laravel/laravel-line.svg" height="40" width="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/50px-Laravel.svg.png" height="40" width="40" alt="laravel logo"  />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="Next js logo"  />
 </div>
 
