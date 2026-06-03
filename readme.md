@@ -29,17 +29,17 @@
 
 ## Stats section
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C825%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C826%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.83%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.84%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 556.7 kB Used in GitHub's Storage 
+> 📦 556.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,225 Contributions in the Year 2026
+> 🏆 1,240 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,60 +47,12 @@
  > 
 > 🔑 27 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1093 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-🌆 Daytime                2905 commits        █████████░░░░░░░░░░░░░░░░   37.81 % 
-🌃 Evening                3363 commits        ███████████░░░░░░░░░░░░░░   43.77 % 
-🌙 Night                  322 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1056 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Tuesday                  1346 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Wednesday                1162 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Thursday                 1116 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Friday                   1328 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Saturday                 825 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Sunday                   850 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Mexico_City
-
-💬 Programming Languages: 
-TypeScript               2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.51 % 
-PHP                      2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-Markdown                 1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-SQL                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 24 mins       ████████████████░░░░░░░░░   64.93 % 
-Unknown Editor           2 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   35.07 % 
-
-🐱‍💻 Projects: 
-hidromart                3 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   38.34 % 
-belegui-homepage         1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-C.MTY.TC1033.313.2513.A001 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-platanus-build-night-26-m1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-chamba                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-
-💻 Operating System: 
-Linux                    8 hrs 19 mins       █████████████████████████   100.00 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2026 21:36:08 UTC
+ Last Updated on 03/06/2026 21:40:14 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
