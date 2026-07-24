@@ -34,13 +34,13 @@ Oh hi!
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.84%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.90%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 557.4 kB Used in GitHub's Storage 
+> 📦 557.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,545 Contributions in the Year 2026
+> 🏆 1,556 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,21 +51,21 @@ Oh hi!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1266 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-🌆 Daytime                3450 commits        ██████████░░░░░░░░░░░░░░░   40.31 % 
-🌃 Evening                3501 commits        ██████████░░░░░░░░░░░░░░░   40.90 % 
-🌙 Night                  342 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+🌞 Morning                1286 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+🌆 Daytime                3537 commits        ██████████░░░░░░░░░░░░░░░   40.73 % 
+🌃 Evening                3518 commits        ██████████░░░░░░░░░░░░░░░   40.52 % 
+🌙 Night                  342 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1263 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Tuesday                  1599 commits        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Wednesday                1300 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Thursday                 1275 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Friday                   1420 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Saturday                 809 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Sunday                   893 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Monday                   1286 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Tuesday                  1629 commits        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Wednesday                1327 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Thursday                 1302 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Friday                   1437 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Saturday                 809 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Sunday                   893 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
 ```
 
 
@@ -75,25 +75,25 @@ Sunday                   893 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               5 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.98 % 
-Markdown                 5 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.29 % 
-PHP                      1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Other                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-SQL                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+TypeScript               6 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.58 % 
+Markdown                 4 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   30.43 % 
+PHP                      2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+SQL                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Other                    1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 30 mins      ███████████████████████░░   90.59 % 
-VS Code                  1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Claude Code              15 hrs 6 mins       ███████████████████████░░   92.22 % 
+VS Code                  1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 
 🐱‍💻 Projects: 
-Novu                     4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-urbani-admin             4 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.27 % 
-gviall-test              2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-custom-channel           1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-urbani-crm               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Novu                     4 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+urbani-admin             4 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+gviall-test              2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+urbani-crm               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+7grados-ecommerce        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 
 💻 Operating System: 
-Linux                    16 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    16 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -101,7 +101,7 @@ Linux                    16 hrs 1 min        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 20:01:25 UTC
+ Last Updated on 24/07/2026 20:01:55 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
