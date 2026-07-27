@@ -32,7 +32,9 @@ Oh hi!
 
 ## Stats section
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C930%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C894%20hrs%2034%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-204%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
@@ -77,25 +79,49 @@ Sunday                   893 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               7 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   40.11 % 
-Markdown                 5 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   30.13 % 
-Other                    2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-PHP                      1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-SQL                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+TypeScript               7 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   39.85 % 
+Markdown                 5 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.71 % 
+Other                    2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+PHP                      1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+SQL                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 27 mins      ████████████████████████░   96.73 % 
-VS Code                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Claude Code              17 hrs 47 mins      ████████████████████████░   96.79 % 
+VS Code                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🐱‍💻 Projects: 
-urbani-admin             8 hrs 44 mins       ███████████░░░░░░░░░░░░░░   45.81 % 
-Novu                     3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-gviall-test              1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-urbani-crm               1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-7grados-ecommerce        1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+urbani-admin             8 hrs 44 mins       ████████████░░░░░░░░░░░░░   47.54 % 
+Novu                     3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+gviall-test              1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+urbani-crm               1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+7grados-ecommerce        1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 💻 Operating System: 
-Linux                    19 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    18 hrs 22 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 18 hrs 1 min (98.1%)
+
+✍️ 14,689 lines written by AI, 4 lines written by hand (99.97% AI-written)
+
+🔤 637,277,121 Input Tokens, 1,571,803 Output Tokens
+
+💵 $2917.14 Estimated AI Cost This Week
+
+🧠 24 AI Sessions, 157 AI Prompts
+
+Opus                     14,244 lines        ██████████████████████░░░   88.33 % 
+Fable                    1,881 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.97% of written lines came from AI
+📄 Detailed Prompter — average 838 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 2.6% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -103,7 +129,7 @@ Linux                    19 hrs 4 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:49:39 UTC
+ Last Updated on 27/07/2026 20:10:16 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
