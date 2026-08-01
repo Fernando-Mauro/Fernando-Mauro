@@ -32,9 +32,9 @@ Oh hi!
 
 ## Stats section
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C901%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C903%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-212%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-215%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -79,50 +79,50 @@ Sunday                   943 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Markdown                 7 hrs 12 mins       ███████████░░░░░░░░░░░░░░   45.93 % 
-TypeScript               4 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-Other                    1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-SQL                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-PHP                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Markdown                 6 hrs 50 mins       ███████████░░░░░░░░░░░░░░   45.54 % 
+TypeScript               2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Other                    1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+SQL                      1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+PHP                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 5 mins       ████████████████████████░   96.18 % 
-VS Code                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Claude Code              14 hrs 2 mins       ███████████████████████░░   93.48 % 
+VS Code                  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 
 🐱‍💻 Projects: 
-urbani-admin             7 hrs 19 mins       ████████████░░░░░░░░░░░░░   46.72 % 
-Novu                     3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-frontend                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-urbani-crm               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-mayoreo-sillas           55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Novu                     7 hrs 19 mins       ████████████░░░░░░░░░░░░░   48.73 % 
+urbani-admin             2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+frontend                 1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+mayoreo-sillas           55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+7grados-ecommerce        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 💻 Operating System: 
-Linux                    15 hrs 41 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 35 mins (99.33%)
+⏱ AI Coding Time: 14 hrs 46 mins (98.28%)
 
-✍️ 31,161 lines written by AI, 3 lines written by hand (99.99% AI-written)
+✍️ 30,526 lines written by AI, 5 lines written by hand (99.98% AI-written)
 
-🔤 642,501,572 Input Tokens, 1,853,883 Output Tokens
+🔤 503,879,353 Input Tokens, 1,638,080 Output Tokens
 
-💵 $3036.05 Estimated AI Cost This Week
+💵 $2244.17 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 155 AI Prompts
+🧠 24 AI Sessions, 172 AI Prompts
 
-Opus                     20,951 lines        █████████████████░░░░░░░░   66.03 % 
-Sonnet                   5,520 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Fable                    5,257 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Opus                     17,111 lines        ██████████████░░░░░░░░░░░   55.13 % 
+Sonnet                   8,651 lines         ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+Fable                    5,277 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 1,505 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📄 Detailed Prompter — average 1,251 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -130,7 +130,7 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 20:11:41 UTC
+ Last Updated on 01/08/2026 19:48:32 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
