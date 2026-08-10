@@ -79,50 +79,50 @@ Sunday                   1119 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Markdown                 8 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   38.77 % 
-TypeScript               6 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   30.44 % 
-SQL                      2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Other                    1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-PHP                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Markdown                 8 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   37.05 % 
+TypeScript               6 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   30.89 % 
+SQL                      2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+PHP                      1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Other                    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 14 mins      ████████████████████████░   94.43 % 
-VS Code                  1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Claude Code              21 hrs 18 mins      ████████████████████████░   94.48 % 
+VS Code                  1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 🐱‍💻 Projects: 
-Novu                     14 hrs              ████████████████░░░░░░░░░   65.33 % 
-frontend                 1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-urbani-admin             1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-7grados-ecommerce        1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-backend                  1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Novu                     13 hrs 48 mins      ███████████████░░░░░░░░░░   61.21 % 
+frontend                 2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+urbani-admin             1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+7grados-ecommerce        1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+backend                  1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 💻 Operating System: 
-Linux                    21 hrs 26 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 56 mins (97.7%)
+⏱ AI Coding Time: 22 hrs (97.58%)
 
-✍️ 29,434 lines written by AI, 43 lines written by hand (99.85% AI-written)
+✍️ 30,135 lines written by AI, 43 lines written by hand (99.86% AI-written)
 
-🔤 759,667,022 Input Tokens, 2,216,253 Output Tokens
+🔤 757,712,713 Input Tokens, 2,253,802 Output Tokens
 
-💵 $2807.32 Estimated AI Cost This Week
+💵 $2803.27 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 165 AI Prompts
+🧠 20 AI Sessions, 168 AI Prompts
 
-Sonnet                   13,490 lines        ███████████░░░░░░░░░░░░░░   43.66 % 
-Opus                     12,389 lines        ██████████░░░░░░░░░░░░░░░   40.10 % 
-Fable                    3,523 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Haiku                    1,495 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Sonnet                   13,490 lines        ███████████░░░░░░░░░░░░░░   42.69 % 
+Opus                     13,092 lines        ██████████░░░░░░░░░░░░░░░   41.43 % 
+Fable                    3,523 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Haiku                    1,495 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.85% of written lines came from AI
-📄 Detailed Prompter — average 1,360 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+🤖 AI-Driven — 99.86% of written lines came from AI
+📄 Detailed Prompter — average 1,320 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
 
@@ -131,7 +131,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 19:17:36 UTC
+ Last Updated on 10/08/2026 19:36:40 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
