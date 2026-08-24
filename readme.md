@@ -79,49 +79,50 @@ Sunday                   1207 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               7 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   37.60 % 
-Markdown                 5 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-Other                    3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-HTML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+TypeScript               6 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   32.42 % 
+Markdown                 5 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   31.74 % 
+Other                    3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+PHP                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+HTML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 9 mins       ███████████████████████░░   92.63 % 
-VS Code                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Kiro                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Claude Code              17 hrs 12 mins      ███████████████████████░░   92.32 % 
+VS Code                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Kiro                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🐱‍💻 Projects: 
-urbani-admin             9 hrs 19 mins       ████████████░░░░░░░░░░░░░   47.55 % 
-Novu                     4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-private-vault            1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-urbi-access              1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-mayoreo-sillas           1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+urbani-admin             9 hrs 19 mins       ████████████░░░░░░░░░░░░░   49.97 % 
+Novu                     2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+hidromart                1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+urbi-access              1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+mayoreo-sillas           1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 💻 Operating System: 
-Linux                    19 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 4 mins (97.32%)
+⏱ AI Coding Time: 18 hrs 7 mins (97.23%)
 
-✍️ 28,141 lines written by AI, 260 lines written by hand (99.08% AI-written)
+✍️ 31,987 lines written by AI, 259 lines written by hand (99.2% AI-written)
 
-🔤 18,406,031 Input Tokens, 2,462,827 Output Tokens
+🔤 17,102,570 Input Tokens, 2,362,011 Output Tokens
 
-💵 $612.48 Estimated AI Cost This Week
+💵 $536.88 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 226 AI Prompts
+🧠 16 AI Sessions, 184 AI Prompts
 
-Opus                     20,135 lines        █████████████████░░░░░░░░   67.04 % 
-Fable                    9,901 lines         ████████░░░░░░░░░░░░░░░░░   32.96 % 
+Opus                     22,831 lines        █████████████████░░░░░░░░   67.70 % 
+Fable                    9,901 lines         ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+Sonnet                   992 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.08% of written lines came from AI
-📄 Detailed Prompter — average 960 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 1.71% of changed lines were hand-edited
+🤖 AI-Driven — 99.2% of written lines came from AI
+📄 Detailed Prompter — average 1,191 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 1.52% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -129,7 +130,7 @@ Fable                    9,901 lines         ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 19:03:47 UTC
+ Last Updated on 24/08/2026 19:19:37 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
