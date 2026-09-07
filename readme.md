@@ -44,7 +44,7 @@ Oh hi!
 
 > 📦 559.4 kB Used in GitHub's Storage 
  > 
-> 🏆 2,128 Contributions in the Year 2026
+> 🏆 2,145 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,21 +55,21 @@ Oh hi!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2430 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-🌆 Daytime                7038 commits        ████████████░░░░░░░░░░░░░   46.51 % 
-🌃 Evening                4615 commits        ████████░░░░░░░░░░░░░░░░░   30.50 % 
-🌙 Night                  1050 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+🌞 Morning                2432 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+🌆 Daytime                7040 commits        ████████████░░░░░░░░░░░░░   46.47 % 
+🌃 Evening                4615 commits        ████████░░░░░░░░░░░░░░░░░   30.46 % 
+🌙 Night                  1062 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2240 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Tuesday                  3409 commits        ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
-Wednesday                2184 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Thursday                 2394 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Friday                   2747 commits        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Saturday                 896 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Sunday                   1263 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Monday                   2256 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Tuesday                  3409 commits        ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Wednesday                2184 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Thursday                 2394 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Friday                   2747 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Saturday                 896 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Sunday                   1263 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 ```
 
 
@@ -79,49 +79,49 @@ Sunday                   1263 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Markdown                 5 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.70 % 
-Other                    3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-TypeScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Bash                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-PHP                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Markdown                 4 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.14 % 
+Other                    3 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+TypeScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+PHP                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 13 mins      ███████████████████████░░   93.23 % 
-VS Code                  1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Claude Code              11 hrs 55 mins      ███████████████████████░░   93.72 % 
+VS Code                  47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 🐱‍💻 Projects: 
-urbani-admin             5 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.04 % 
-gviall-test              2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-hidromart                1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-urbani-support-functions 1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Novu                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+urbani-admin             5 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.98 % 
+hidromart                1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+urbani-support-functions 1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Novu                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+gviall-test              40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 💻 Operating System: 
-Linux                    15 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 42 mins (96.42%)
+⏱ AI Coding Time: 12 hrs 17 mins (96.54%)
 
-✍️ 18,425 lines written by AI, 76 lines written by hand (99.59% AI-written)
+✍️ 15,568 lines written by AI, 69 lines written by hand (99.56% AI-written)
 
-🔤 18,151,760 Input Tokens, 1,525,835 Output Tokens
+🔤 15,608,877 Input Tokens, 1,168,649 Output Tokens
 
-💵 $397.55 Estimated AI Cost This Week
+💵 $352.48 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 147 AI Prompts
+🧠 17 AI Sessions, 124 AI Prompts
 
-Opus                     17,902 lines        ████████████████████████░   97.14 % 
-Fable                    527 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Opus                     15,555 lines        ████████████████████████░   96.72 % 
+Fable                    527 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.59% of written lines came from AI
-📚 Verbose Prompter — average 3,340 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.47% of changed lines were hand-edited
+🤖 AI-Driven — 99.56% of written lines came from AI
+📚 Verbose Prompter — average 2,910 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.51% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -129,7 +129,7 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 20:47:28 UTC
+ Last Updated on 07/09/2026 21:50:24 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
