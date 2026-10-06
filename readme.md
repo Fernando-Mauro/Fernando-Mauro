@@ -36,15 +36,15 @@ Oh hi!
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-380%20hrs%2038%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.04%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.48%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 560.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2,443 Contributions in the Year 2026
+> 🏆 2,551 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,21 +55,21 @@ Oh hi!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3536 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-🌆 Daytime                10379 commits       ████████████░░░░░░░░░░░░░   49.19 % 
-🌃 Evening                5545 commits        ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-🌙 Night                  1640 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+🌞 Morning                3418 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+🌆 Daytime                9851 commits        ████████████░░░░░░░░░░░░░   48.60 % 
+🌃 Evening                5437 commits        ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+🌙 Night                  1562 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3013 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Tuesday                  4891 commits        ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-Wednesday                2938 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Thursday                 3469 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Friday                   4428 commits        █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-Saturday                 966 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Sunday                   1395 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Monday                   2937 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Tuesday                  4677 commits        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Wednesday                2835 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Thursday                 3318 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Friday                   4142 commits        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Saturday                 955 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Sunday                   1404 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 ```
 
 
@@ -79,48 +79,48 @@ Sunday                   1395 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Markdown                 9 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   38.08 % 
-TypeScript               7 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.74 % 
-Other                    2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Diff                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-PHP                      1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Markdown                 9 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.80 % 
+TypeScript               7 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+Other                    2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Diff                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+PHP                      1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 16 mins      █████████████████████████   99.22 % 
-VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Claude Code              24 hrs 21 mins      █████████████████████████   98.90 % 
+VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🐱‍💻 Projects: 
-urbani-admin             18 hrs 22 mins      ███████████████████░░░░░░   75.08 % 
-gviall-test              1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-frontend                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-mayoreo-sillas           41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-urbani-crm               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+urbani-admin             18 hrs 27 mins      ███████████████████░░░░░░   74.95 % 
+gviall-test              1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+frontend                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+mayoreo-sillas           41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+urbani-crm               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 💻 Operating System: 
-Linux                    24 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 20 mins (99.51%)
+⏱ AI Coding Time: 24 hrs 26 mins (99.19%)
 
-✍️ 44,079 lines written by AI, 2 lines written by hand (100.0% AI-written)
+✍️ 43,448 lines written by AI, 2 lines written by hand (100.0% AI-written)
 
-🔤 37,853,769 Input Tokens, 2,029,604 Output Tokens
+🔤 39,095,815 Input Tokens, 2,043,006 Output Tokens
 
-💵 $541.79 Estimated AI Cost This Week
+💵 $551.02 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 187 AI Prompts
+🧠 22 AI Sessions, 185 AI Prompts
 
-Opus                     30,780 lines        █████████████████░░░░░░░░   68.30 % 
-Sonnet                   9,068 lines         █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-Haiku                    5,217 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Opus                     30,149 lines        █████████████████░░░░░░░░   67.85 % 
+Sonnet                   9,068 lines         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Haiku                    5,217 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,601 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📚 Verbose Prompter — average 3,639 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -129,7 +129,7 @@ Haiku                    5,217 lines         ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:56:35 UTC
+ Last Updated on 06/10/2026 00:25:59 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
