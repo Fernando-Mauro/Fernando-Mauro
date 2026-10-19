@@ -32,9 +32,9 @@ Oh hi!
 
 ## Stats section
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C074%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C074%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-408%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-409%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -79,46 +79,46 @@ Sunday                   1415 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Markdown                 8 hrs 31 mins       ███████████░░░░░░░░░░░░░░   42.78 % 
-JavaScript               2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-PHP                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Other                    1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-HTML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Markdown                 8 hrs 58 mins       ███████████░░░░░░░░░░░░░░   43.65 % 
+JavaScript               2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+PHP                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Other                    1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+HTML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 6 mins       ████████████████████████░   95.98 % 
-VS Code                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Claude Code              19 hrs 45 mins      ████████████████████████░   96.10 % 
+VS Code                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 
 🐱‍💻 Projects: 
-custom-channel           5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
-gyemant                  4 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-urbani-support-functions 3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-consultoriaIA            2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-urbani-admin             1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+custom-channel           5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+gyemant                  4 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+urbani-support-functions 3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+consultoriaIA            2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+medidor-ph               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 💻 Operating System: 
-Linux                    19 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 7 mins (96.02%)
+⏱ AI Coding Time: 19 hrs 46 mins (96.15%)
 
-✍️ 23,513 lines written by AI, 26 lines written by hand (99.89% AI-written)
+✍️ 23,685 lines written by AI, 26 lines written by hand (99.89% AI-written)
 
-🔤 19,066,471 Input Tokens, 3,195,563 Output Tokens
+🔤 19,400,422 Input Tokens, 3,238,768 Output Tokens
 
-💵 $349.13 Estimated AI Cost This Week
+💵 $352.97 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 150 AI Prompts
+🧠 23 AI Sessions, 160 AI Prompts
 
-Opus                     24,468 lines        █████████████████████████   99.88 % 
+Opus                     24,640 lines        █████████████████████████   99.88 % 
 Fable                    30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.89% of written lines came from AI
-📚 Verbose Prompter — average 3,435 characters per prompt
+📚 Verbose Prompter — average 3,226 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.11% of changed lines were hand-edited
 ```
@@ -128,7 +128,7 @@ Fable                    30 lines            ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fernando-Mauro/Fernando-Mauro/master/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 21:07:36 UTC
+ Last Updated on 19/10/2026 22:45:03 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/fernando-mauro/fernando-mauro/output/snake.svg" alt="Snake animation" />
